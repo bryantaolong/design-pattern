@@ -1,6 +1,10 @@
 package creational.Prototype;
 
-// 具体原型类
+/**
+ * 具体原型类
+ *
+ * @author: Bryan Long
+ */
 public class ConcretePrototype implements Prototype {
     private String name;
 

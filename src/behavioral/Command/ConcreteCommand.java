@@ -1,6 +1,10 @@
 package behavioral.Command;
 
-// 具体命令
+/**
+ * 具体命令
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteCommand implements Command {
     private Receiver receiver;
 

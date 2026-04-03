@@ -1,6 +1,10 @@
 package behavioral.Mediator;
 
-// 具体同事B
+/**
+ * 具体同事B
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteColleagueB extends Colleague {
     public ConcreteColleagueB(Mediator mediator) {
         super(mediator);

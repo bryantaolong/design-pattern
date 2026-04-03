@@ -2,7 +2,11 @@ package behavioral.Interpreter;
 
 import java.util.Map;
 
-// 变量表达式
+/**
+ * 变量表达式
+ *
+ * @author: Bryan Long
+ */
 public class VariableExpression implements Expression {
     private String name;
 

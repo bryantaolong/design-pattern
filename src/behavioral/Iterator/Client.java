@@ -1,5 +1,10 @@
 package behavioral.Iterator;
 
+/**
+ * 客户端
+ *
+ * @author: Bryan Long
+ */
 public class Client {
     public static void main(String[] args) {
         Object[] items = {"A", "B", "C"};

@@ -1,5 +1,10 @@
 package structural.Flyweight;
 
+/**
+ * 客户端
+ *
+ * @author: Bryan Long
+ */
 public class Client {
     public static void main(String[] args) {
         FlyweightFactory factory = new FlyweightFactory();

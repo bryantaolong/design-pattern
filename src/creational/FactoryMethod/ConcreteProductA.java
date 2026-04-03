@@ -1,6 +1,10 @@
 package creational.FactoryMethod;
 
-// 具体产品A
+/**
+ * 具体产品A
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteProductA implements Product {
     @Override
     public void use() {

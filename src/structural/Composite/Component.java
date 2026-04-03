@@ -3,7 +3,11 @@ package structural.Composite;
 import java.util.ArrayList;
 import java.util.List;
 
-// 抽象构件
+/**
+ * 抽象构件
+ *
+ * @author: Bryan Long
+ */
 public abstract class Component {
     protected String name;
 

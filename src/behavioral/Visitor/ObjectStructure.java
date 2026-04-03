@@ -3,7 +3,11 @@ package behavioral.Visitor;
 import java.util.ArrayList;
 import java.util.List;
 
-// 对象结构
+/**
+ * 对象结构
+ *
+ * @author: Bryan Long
+ */
 public class ObjectStructure {
     private List<Element> elements = new ArrayList<>();
 

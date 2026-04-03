@@ -1,6 +1,10 @@
 package behavioral.Strategy;
 
-// 上下文
+/**
+ * 上下文
+ *
+ * @author: Bryan Long
+ */
 public class Context {
     private Strategy strategy;
 

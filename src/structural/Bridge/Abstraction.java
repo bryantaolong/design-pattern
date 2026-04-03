@@ -1,6 +1,10 @@
 package structural.Bridge;
 
-// 抽象部分
+/**
+ * 抽象部分
+ *
+ * @author: Bryan Long
+ */
 public abstract class Abstraction {
     protected Implementor implementor;
 

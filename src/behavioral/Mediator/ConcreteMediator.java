@@ -1,6 +1,10 @@
 package behavioral.Mediator;
 
-// 具体中介者
+/**
+ * 具体中介者
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteMediator extends Mediator {
     private ConcreteColleagueA colleagueA;
     private ConcreteColleagueB colleagueB;

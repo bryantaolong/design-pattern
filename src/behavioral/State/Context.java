@@ -1,6 +1,10 @@
 package behavioral.State;
 
-// 环境类
+/**
+ * 环境类
+ *
+ * @author: Bryan Long
+ */
 public class Context {
     private State state;
 

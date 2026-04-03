@@ -1,6 +1,10 @@
 package behavioral.Visitor;
 
-// 访问者接口
+/**
+ * 访问者接口
+ *
+ * @author: Bryan Long
+ */
 public interface Visitor {
     void visit(ElementA element);
 

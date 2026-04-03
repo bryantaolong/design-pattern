@@ -1,6 +1,10 @@
 package behavioral.TemplateMethod;
 
-// 抽象类，定义模板方法
+/**
+ * 抽象类，定义模板方法
+ *
+ * @author: Bryan Long
+ */
 public abstract class AbstractClass {
     public void templateMethod() {
         primitiveOperation1();

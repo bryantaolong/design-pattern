@@ -1,5 +1,10 @@
 package behavioral.ChainOfResponsibility;
 
+/**
+ *
+ *
+ * @author: Bryan Long
+ */
 public class Client {
     public static void main(String[] args) {
         Handler a = new ConcreteHandlerA();

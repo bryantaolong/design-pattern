@@ -1,6 +1,10 @@
 package structural.Decorator;
 
-// 具体装饰器A
+/**
+ * 具体装饰器A
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteDecoratorA extends Decorator {
     public ConcreteDecoratorA(Component component) {
         super(component);

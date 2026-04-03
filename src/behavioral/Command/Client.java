@@ -1,5 +1,10 @@
 package behavioral.Command;
 
+/**
+ * 客户端
+ *
+ * @author: Bryan Long
+ */
 public class Client {
     public static void main(String[] args) {
         Receiver receiver = new Receiver();

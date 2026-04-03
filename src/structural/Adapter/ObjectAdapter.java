@@ -1,6 +1,10 @@
 package structural.Adapter;
 
-// 对象适配器（使用组合）
+/**
+ * 对象适配器（使用组合）
+ *
+ * @author: Bryan Long
+ */
 public class ObjectAdapter implements Target {
     private Adaptee adaptee;
 

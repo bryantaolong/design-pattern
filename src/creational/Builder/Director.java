@@ -1,6 +1,10 @@
 package creational.Builder;
 
-// 指挥者
+/**
+ * 指挥者
+ *
+ * @author: Bryan Long
+ */
 public class Director {
     private Builder builder;
 

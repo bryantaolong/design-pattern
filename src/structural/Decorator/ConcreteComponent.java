@@ -1,6 +1,10 @@
 package structural.Decorator;
 
-// 具体构件
+/**
+ * 具体构件
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteComponent implements Component {
     @Override
     public void operation() {

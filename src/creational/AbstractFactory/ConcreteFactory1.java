@@ -1,6 +1,10 @@
 package creational.AbstractFactory;
 
-// 具体工厂1
+/**
+ * 具体工厂1
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteFactory1 implements AbstractFactory {
     @Override
     public ProductA createProductA() {

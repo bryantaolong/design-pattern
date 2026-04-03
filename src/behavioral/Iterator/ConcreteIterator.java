@@ -1,6 +1,10 @@
 package behavioral.Iterator;
 
-// 具体迭代器
+/**
+ * 具体迭代器
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteIterator implements Iterator {
     private Object[] items;
     private int index = 0;

@@ -2,7 +2,11 @@ package behavioral.Interpreter;
 
 import java.util.Map;
 
-// 加法表达式
+/**
+ * 加法表达式
+ *
+ * @author: Bryan Long
+ */
 public class AddExpression implements Expression {
     private Expression left, right;
 

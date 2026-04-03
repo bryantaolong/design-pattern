@@ -1,5 +1,10 @@
 package creational.AbstractFactory;
 
+/**
+ * 客户端
+ *
+ * @author: Bryan Long
+ */
 public class Client {
     public static void main(String[] args) {
         AbstractFactory factory1 = new ConcreteFactory1();

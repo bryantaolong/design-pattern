@@ -3,7 +3,11 @@ package structural.Flyweight;
 import java.util.HashMap;
 import java.util.Map;
 
-// 享元工厂
+/**
+ * 享元工厂
+ *
+ * @author: Bryan Long
+ */
 public class FlyweightFactory {
     private Map<String, Flyweight> pool = new HashMap<>();
 

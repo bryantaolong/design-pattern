@@ -1,6 +1,10 @@
 package behavioral.ChainOfResponsibility;
 
-// 具体处理者A
+/**
+ * 具体处理者A
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteHandlerA extends Handler {
     @Override
     public void handleRequest(String request) {

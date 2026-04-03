@@ -1,6 +1,10 @@
 package structural.Proxy;
 
-// 代理主题
+/**
+ * 代理主题
+ *
+ * @author: Bryan Long
+ */
 public class Proxy implements Subject {
     private RealSubject realSubject;
 

@@ -1,6 +1,10 @@
 package creational.Singleton;
 
-// 单例模式示例
+/**
+ * 单例类
+ *
+ * @author: Bryan Long
+ */
 public class Singleton {
     private static Singleton instance;
 

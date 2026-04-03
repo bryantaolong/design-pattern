@@ -1,6 +1,10 @@
 package structural.Composite;
 
-// 叶子节点
+/**
+ * 叶子节点
+ *
+ * @author: Bryan Long
+ */
 public class Leaf extends Component {
     public Leaf(String name) {
         super(name);

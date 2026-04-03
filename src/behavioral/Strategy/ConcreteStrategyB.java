@@ -1,6 +1,10 @@
 package behavioral.Strategy;
 
-// 具体策略B
+/**
+ * 具体策略B
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteStrategyB implements Strategy {
     @Override
     public void algorithm() {

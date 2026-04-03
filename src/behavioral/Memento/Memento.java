@@ -1,6 +1,10 @@
 package behavioral.Memento;
 
-// 备忘录
+/**
+ * 备忘录
+ *
+ * @author: Bryan Long
+ */
 public class Memento {
     private String state;
 

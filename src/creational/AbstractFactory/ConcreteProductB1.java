@@ -1,6 +1,10 @@
 package creational.AbstractFactory;
 
-// 具体产品B1
+/**
+ * 具体产品B1
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteProductB1 implements ProductB {
     @Override
     public void eat() {

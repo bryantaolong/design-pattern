@@ -1,6 +1,10 @@
 package behavioral.Visitor;
 
-// 具体元素B
+/**
+ * 具体元素B
+ *
+ * @author: Bryan Long
+ */
 public class ElementB implements Element {
     @Override
     public void accept(Visitor visitor) {

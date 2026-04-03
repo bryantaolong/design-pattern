@@ -1,6 +1,10 @@
 package behavioral.Observer;
 
-// 具体观察者B
+/**
+ * 具体观察者B
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteObserverB implements Observer {
     private Subject subject;
 

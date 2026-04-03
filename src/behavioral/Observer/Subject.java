@@ -3,7 +3,11 @@ package behavioral.Observer;
 import java.util.ArrayList;
 import java.util.List;
 
-// 主题（被观察者）
+/**
+ * 主题（被观察者）
+ *
+ * @author: Bryan Long
+ */
 public class Subject {
     private List<Observer> observers = new ArrayList<>();
     private String state;

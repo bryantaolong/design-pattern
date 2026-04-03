@@ -1,5 +1,10 @@
 package behavioral.State;
 
+/**
+ * 客户端
+ *
+ * @author: Bryan Long
+ */
 public class Client {
     public static void main(String[] args) {
         Context context = new Context(new ConcreteStateA());

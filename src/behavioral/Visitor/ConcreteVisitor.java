@@ -1,6 +1,10 @@
 package behavioral.Visitor;
 
-// 具体访问者
+/**
+ * 具体访问者
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteVisitor implements Visitor {
     @Override
     public void visit(ElementA element) {

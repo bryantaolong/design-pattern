@@ -1,6 +1,10 @@
 package behavioral.Memento;
 
-// 发起人
+/**
+ * 发起人
+ *
+ * @author: Bryan Long
+ */
 public class Originator {
     private String state;
 

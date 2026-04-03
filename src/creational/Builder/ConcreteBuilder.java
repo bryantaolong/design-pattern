@@ -1,6 +1,10 @@
 package creational.Builder;
 
-// 具体建造者
+/**
+ * 具体建造者
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteBuilder extends Builder {
     @Override
     public void buildPartA() {

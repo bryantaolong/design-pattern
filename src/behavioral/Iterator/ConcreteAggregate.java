@@ -1,6 +1,10 @@
 package behavioral.Iterator;
 
-// 具体聚合
+/**
+ * 具体聚合
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteAggregate implements Aggregate {
     private Object[] items;
 

@@ -1,5 +1,10 @@
 package structural.Composite;
 
+/**
+ * 客户端
+ *
+ * @author: Bryan Long
+ */
 public class Client {
     public static void main(String[] args) {
         Composite root = new Composite("根节点");

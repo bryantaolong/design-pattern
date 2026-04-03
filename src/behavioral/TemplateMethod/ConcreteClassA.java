@@ -1,6 +1,10 @@
 package behavioral.TemplateMethod;
 
-// 具体类A
+/**
+ * 具体类A
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteClassA extends AbstractClass {
     @Override
     protected void primitiveOperation1() {

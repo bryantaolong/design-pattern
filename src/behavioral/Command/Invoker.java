@@ -1,6 +1,10 @@
 package behavioral.Command;
 
-// 调用者
+/**
+ * 调用者
+ *
+ * @author: Bryan Long
+ */
 public class Invoker {
     private Command command;
     public void setCommand(Command command) {

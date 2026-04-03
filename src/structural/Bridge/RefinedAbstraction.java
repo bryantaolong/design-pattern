@@ -1,6 +1,10 @@
 package structural.Bridge;
 
-// 扩展抽象部分
+/**
+ * 扩展抽象部分
+ *
+ * @author: Bryan Long
+ */
 public class RefinedAbstraction extends Abstraction {
     public RefinedAbstraction(Implementor implementor) {
         super(implementor);

@@ -1,6 +1,10 @@
 package creational.Builder;
 
-// 产品类
+/**
+ * 产品类
+ *
+ * @author: Bryan Long
+ */
 public class Product {
     private String partA;
     private String partB;

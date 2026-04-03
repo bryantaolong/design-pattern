@@ -1,6 +1,10 @@
 package structural.Facade;
 
-// 外观类
+/**
+ * 外观类
+ *
+ * @author: Bryan Long
+ */
 public class Facade {
     private SubsystemA a = new SubsystemA();
     private SubsystemB b = new SubsystemB();

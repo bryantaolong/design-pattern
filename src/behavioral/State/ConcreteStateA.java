@@ -1,6 +1,10 @@
 package behavioral.State;
 
-// 具体状态A
+/**
+ * 具体状态A
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteStateA implements State {
     @Override
     public void handle(Context context) {

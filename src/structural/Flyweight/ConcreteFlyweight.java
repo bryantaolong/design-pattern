@@ -1,6 +1,10 @@
 package structural.Flyweight;
 
-// 具体享元
+/**
+ * 具体享元
+ *
+ * @author: Bryan Long
+ */
 public class ConcreteFlyweight implements Flyweight {
     private String intrinsicState;
 

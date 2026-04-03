@@ -3,7 +3,11 @@ package structural.Composite;
 import java.util.ArrayList;
 import java.util.List;
 
-// 容器节点
+/**
+ * 容器节点
+ *
+ * @author: Bryan Long
+ */
 public class Composite extends Component {
     private List<Component> children = new ArrayList<>();
 
